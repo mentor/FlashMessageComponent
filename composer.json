@@ -6,7 +6,6 @@
 		{ "name": "Tomáš Votruba", "homepage": "http://tomasvotruba.cz" }
 	],
 	"require": {
-		"php": ">=5.5",
 		"nette/application": "~2.0"
 	},
 	"require-dev": {
