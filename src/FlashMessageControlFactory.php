@@ -14,6 +14,6 @@ interface FlashMessageControlFactory
 	/**
 	 * @return FlashMessageControl
 	 */
-	function create();
+	public function create();
 
 }
